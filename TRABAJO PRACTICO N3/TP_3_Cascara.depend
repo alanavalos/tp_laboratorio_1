@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1477005777 source:c:\users\usuario1\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1477005426 c:\users\usuario1\desktop\tp_3_cascara\funciones.h
+
+1477001981 c:\users\usuario1\desktop\tp_3_cascara\validar.h
+
+1477005467 source:c:\users\usuario1\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477003647 source:c:\users\usuario1\desktop\tp_3_cascara\validar.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
+1477015640 source:e:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1477015608 e:\tp_3_cascara\funciones.h
+
+1477001982 e:\tp_3_cascara\validar.h
+
+1477011314 source:e:\tp_3_cascara\validar.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
+1477014104 source:e:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1478811374 source:c:\users\usuario1\desktop\trabajo practico n3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1478811322 c:\users\usuario1\desktop\trabajo practico n3\funciones.h
+
+1477001982 c:\users\usuario1\desktop\trabajo practico n3\validar.h
+
+1477014104 source:c:\users\usuario1\desktop\trabajo practico n3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477011314 source:c:\users\usuario1\desktop\trabajo practico n3\validar.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
